@@ -1,3 +1,7 @@
+@font-face {
+  font-family: Montserrat; /* Гарнитура шрифта */
+  src: url(Montserrat.ttf); /* Путь к файлу со шрифтом */
+ }
 body {
     font-size: 14px;
     line-height: 22px;
