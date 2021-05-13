@@ -5,12 +5,12 @@
 body {
     font-size: 14px;
     line-height: 22px;
-    font-family: "Montserrat", serif;
+    font-family: "Montserrat";
     text-align: center;
     text-decoration: none;
   }
   .container-fluid{
-    font-family: "Montserrat", serif;
+    font-family: "Montserrat";
   }
   header
   {
@@ -37,7 +37,7 @@ body {
 
 .helloMessage
 {
-  font-family: "Montserrat Black";
+  font-family: "Montserrat";
   padding-top: 10px;
   font-size: 1px;
   font-weight: 800;
@@ -46,7 +46,7 @@ body {
 
 footer
 {
-  font-family: "Montserrat Light";
+  font-family: "Montserrat";
   position:sticky;
   align-content: center;
   min-width: 100%;
